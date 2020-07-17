@@ -1,0 +1,2 @@
+average path length:1.5450549450549451
+packet loss rate:0.09
